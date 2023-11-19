@@ -37,6 +37,7 @@ while( tanya ) {
     } else {
         hasil = 'Yang Kamu Masukkan Salah!'
     }
+    
     // tampilkan hasil
     alert('Player : ' + player + ' \nKomputer : ' + komputer + ' \nMaka Hasilnya : ' + hasil);
 
